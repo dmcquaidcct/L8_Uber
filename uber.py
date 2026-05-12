@@ -4,4 +4,4 @@ import numpy as np
 
 
 
-st.title("Uber Pickups in New York")
+st.title("Uber Pickups in New York City")
